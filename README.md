@@ -12,6 +12,7 @@
 ## ✨ What is a Developer Portfolio?
 
 A developer portfolio is more than just a website. It’s a **digital identity** that showcases your skills, projects, achievements, and vision to the world. It speaks for you when you’re not in the room – in front of recruiters, collaborators, or communities.
+<img width="1883" height="897" alt="Screenshot 2025-06-02 170018" src="https://github.com/user-attachments/assets/d055c240-d386-4703-a099-3e2e7060891e" />
 
 ---
 
